@@ -104,6 +104,7 @@ Week 6:
 
 ## Sitemap
 
+<img src"img/sitemap.png">
 
 ## References
 
