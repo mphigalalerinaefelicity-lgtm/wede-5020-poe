@@ -1,24 +1,33 @@
-# CHANGELOG
+# Changelog
 
-All notable changes to this project will be documented in this file.
+This section documents the progress and development stages of the website project.
 
-This project follows Semantic Versioning.
+## Week 1: Planning and Research
+- Selected Sessy’s Sweet Crumbs Bakery as the project organisation
+- Completed and finalised project proposal
+- Identified target audience and website goals
 
-## [1.0.0] 
-### Added
-- xyz
+## Week 2: Project Setup
+- Created project folder structure
+- Created all HTML files (index, about, menu, services, contact, inquiry)
+- Added basic HTML structure to each page
 
-### Changed
-- xyz
+## Week 3: Content Development
+- Added detailed content to all pages
+- Improved About page by including history and team members
+- Expanded Menu and Services pages
 
-### Fixed
-- xyz
+## Week 4: Forms and Navigation
+- Added contact form to contact page
+- Created inquiry form for volunteers and donations
+- Linked all pages through navigation menu
 
-## Semantic Versioning
+## Week 5: Refinements
+- Improved homepage layout and content
+- Ensured consistency across all pages
+- Made content more detailed and user-friendly
 
-Format: MAJOR.MINOR.PATCH  
-Example: 2.1.3
-
-- MAJOR → Breaking changes (1.0.0 → 2.0.0)  
-- MINOR → New features (1.0.0 → 1.1.0)  
-- PATCH → Bug fixes / small improvements (1.0.0 → 1.0.1)
+## Week 6: Testing and Finalisation
+- Tested all navigation links
+- Fixed formatting and structural issues
+- Uploaded project to GitHub repository
